@@ -146,13 +146,32 @@ Batch progress = (Completed plan days / Total plan days) × 100
 
 ## 🧰 Tech stack
 
+<div align="center">
+
+### Technologies & tools
+
+<img src="https://skillicons.dev/icons?i=java,mysql,idea,powershell,git,github&theme=dark" alt="Java, MySQL, IntelliJ IDEA, PowerShell, Git, and GitHub" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-4479A1?style=for-the-badge" alt="JDBC database connectivity" />
+<img src="https://img.shields.io/badge/MySQL%20Connector%2FJ-JDBC%20Driver-4479A1?style=for-the-badge" alt="MySQL Connector/J" />
+<img src="https://img.shields.io/badge/CSV-Report%20Export-2E8B57?style=for-the-badge" alt="CSV report export" />
+
+</div>
+
 | Technology | Usage |
 |---|---|
 | **Java 11+** | Application logic and console interface |
 | **JDBC** | Java-to-database connectivity |
 | **MySQL 8** | Persistent data storage |
 | **MySQL Connector/J** | MySQL JDBC driver |
+| **IntelliJ IDEA** | Development environment |
+| **PowerShell / Terminal** | Compiling and running the application |
+| **Git & GitHub** | Version control and repository hosting |
 | **CSV** | Exporting progress reports |
+
+> The icon row highlights the main language, database, development environment, and tools used for this project.
 
 ---
 
