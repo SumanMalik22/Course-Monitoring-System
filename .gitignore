@@ -1,0 +1,15 @@
+# Build output
+out/
+*.class
+
+# Dependencies (download Connector/J yourself, see README)
+lib/
+
+# Local secrets and generated files
+db.properties
+*.csv
+
+# IDE files
+.idea/
+*.iml
+.vscode/
